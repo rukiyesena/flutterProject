@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "name": "stok1",
+    "code": "12ad",
+    "type": [
+      "type1",
+      "type2"
+    ],
+    "stokDate":"2018-09-29",
+    "malzeme": [
+      {
+        "malzemeid": "1",
+        "malzemename": "malzeme1"
+      },
+      {
+        "id": "2",
+        "malzemename": "malzeme2"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "stok2",
+    "code": "12ac",
+    "type": [
+      "type1",
+      "type2"
+    ],
+    "stokDate":"2000-08-29",
+    "malzeme": [
+      {
+        "malzemeid": "1",
+        "malzemename": "malzeme1"
+      },
+      {
+        "malzemeid": "2",
+        "malzemename": "malzeme2"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "stok3",
+    "code": "12ac",
+    "type": [
+      "type1",
+      "type2"
+    ],
+    "stokDate":"2000-08-29",
+    "malzeme": [
+      {
+        "malzemeid": "1",
+        "malzemename": "malzeme1"
+      },
+      {
+        "malzemeid": "2",
+        "malzemename": "malzeme2"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "stok4",
+    "code": "12ac",
+    "type": [
+      "type1",
+      "type2"
+    ],
+    "stokDate":"2000-08-29",
+    "malzeme": [
+      {
+        "malzemeid": "1",
+        "malzemename": "malzeme1"
+      },
+      {
+        "malzemeid": "2",
+        "malzemename": "malzeme2"
+      }
+    ]
+  }
+]
